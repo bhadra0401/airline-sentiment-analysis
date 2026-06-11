@@ -132,8 +132,7 @@ streamlit run app.py
 
 **Naga Veera Bhadra Kumar Akkala**
 
-LinkedIn: Add Your LinkedIn Profile
-GitHub: Add Your GitHub Profile
+LinkedIn: www.linkedin.com/in/nagaveerabhadrakumarakkala
 
 ## License
 
